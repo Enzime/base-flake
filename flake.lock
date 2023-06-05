@@ -1,0 +1,24 @@
+{
+  "nodes": {
+    "root": {
+      "inputs": {
+        "secrets": "secrets"
+      }
+    },
+    "secrets": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1,
+        "narHash": "sha256-j1hfFaGUiSF1ocEOY1GONUn2ikJjr3YpbTMTUPBQGX0=",
+        "path": "./secrets",
+        "type": "path"
+      },
+      "original": {
+        "path": "./secrets",
+        "type": "path"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
